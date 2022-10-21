@@ -1,0 +1,11 @@
+print("Greeting to know you!")
+name=input("What's your name?: ")
+age = int(input("What's your age?: "))
+food = input("What's your favourite food?: ")
+music = input("What's your favourite music?: ")
+place = input("Where do you live?: ")
+
+print("You are, ",name)
+print("You're probably hungry for,",food)
+print("and you're defenitely getting your groove on to ,",music)
+print("living in the amazing,",place)
