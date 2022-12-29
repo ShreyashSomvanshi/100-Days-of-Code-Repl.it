@@ -1,6 +1,7 @@
 print("SECURE LOGIN")
-username = input("Username > ")
-password = input("Password> ")
+
+username = input("What is your username?")
+password = input("What is your password?")
 
 if username == "mark" and password == "password":
  print("Welcome Mark!")
